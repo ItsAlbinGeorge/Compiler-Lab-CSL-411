@@ -123,3 +123,8 @@ int main()
     printf("Lexical analysis complete. Check 'output.txt' for tokens.\n");
     return 0;
 }
+/*
+OUTPUT
+======
+Lexical analysis complete. Check 'output.txt' for tokens.
+ */
