@@ -1,7 +1,6 @@
-%option noyywrap
 %{
 #include<stdio.h>
-#include"yak3.tab.h"
+#include"y.tab.h"
 extern int yylval;
 %}
 %%
